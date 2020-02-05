@@ -1,4 +1,4 @@
-package pl.video.videoapp;
+package pl.video.videoapp.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
