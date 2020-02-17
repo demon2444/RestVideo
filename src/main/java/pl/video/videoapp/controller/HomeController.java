@@ -21,9 +21,8 @@ public class HomeController {
     }
 
     @GetMapping("/ff")
-    @ResponseBody
     public String ff() {
-        return "ff";
+        return "a";
     }
 
 }
